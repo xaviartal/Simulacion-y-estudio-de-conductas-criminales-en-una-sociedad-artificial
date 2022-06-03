@@ -14,11 +14,6 @@ from mesa.datacollection import DataCollector
 from NearRepeat import NearRepeat
 from Thief import Thief
 
-x_pos = []
-y_pos = []
-x_arrest = []
-y_arrest = []
-
 class Policeman(Agent):
     def __init__(self,unique_id,model):
         super().__init__(unique_id, model)
