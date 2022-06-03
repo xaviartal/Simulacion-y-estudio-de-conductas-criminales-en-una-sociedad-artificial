@@ -15,10 +15,6 @@ from mesa.datacollection import DataCollector
 from NearRepeat import NearRepeat
 from Victim import Victim
 
-x_pos = []
-y_pos = []
-x_arrest = []
-y_arrest = []
 
 
 class Policeman(Agent):
