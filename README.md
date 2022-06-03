@@ -1,6 +1,8 @@
 # Simulacion-y-estudio-de-conductas-criminales-en-una-sociedad-artificial
 
 Introducción
+
+
 El objetivo de este trabajo será simular una sociedad artificial donde se estudiará el
 comportamiento de criminales, víctimas y policías. El estudio se centrará solamente en robos
 urbanos, es decir, robos en calles con o sin violencia en los que un criminal consigue quitar a una
